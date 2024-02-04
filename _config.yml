@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shangamitra Chakraborty / Socio-Policy Insights"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Shangamitra Chakraborty"
+description              : &description "M.A. in Sociology at Queen's University, focusing on the sociology of globalization, race, and racialization, with interests in AI ethics and policy."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -70,26 +70,24 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
-
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  name             : "Shangamitra Chakraborty"
+  avatar           : "profile.jpg"
+  bio              : "M.A. in Sociology at Queen's University, focusing on the sociology of globalization, race, and racialization. My research spans across AI ethics, policy, and the sociology of technology."
+  location         : "Kingston, Canada"
+  employer         : "Queen's University"
+  pubmed           : 
+  googlescholar    : 
+  email            : "chakrabortyshangamitra@gmail.com"
+  researchgate     :  
+  uri              : "https://www.linkedin.com/in/shangamitra-chakraborty-566033201"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,22 +98,21 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "shangamitra-chakraborty-566033201"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
