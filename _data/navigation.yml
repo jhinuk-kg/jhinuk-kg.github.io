@@ -1,4 +1,8 @@
-# main links links
+# main links
 main:
+  - title: "About"
+    url: /
   - title: "CV"
+    url: /cv/
+  - title: "Resume (PDF)"
     url: /Chakraborty_Resume.pdf
