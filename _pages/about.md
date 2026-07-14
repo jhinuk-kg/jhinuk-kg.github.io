@@ -29,4 +29,4 @@ Get in touch
 ======
 If you're a nonprofit, small independent school, or community-serving organization in the Toronto area thinking about operations, coordination, or program support — I'd love to talk.
 
-📧 [shanga.office@gmail.com](mailto:shanga.office@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/jhinuk](https://linkedin.com/in/jhinuk) &nbsp;·&nbsp; 📄 [Resume](/Chakraborty_Resume.pdf)
+📧 [shanga.office@gmail.com](mailto:shanga.office@gmail.com) &nbsp;·&nbsp; 💼 [linkedin.com/in/jhinuk](https://linkedin.com/in/jhinuk) &nbsp;·&nbsp; 📅 [cal.com/jhinuk](https://cal.com/jhinuk) &nbsp;·&nbsp; 📄 [Resume](/Chakraborty_Resume.pdf)
